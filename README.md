@@ -1,0 +1,2 @@
+# Disease-Prediction
+With big data growth in biomedical and healthcare communities, accurate analysis of medical data benefits early disease detection, patient care and community services. However, the analysis accuracy is reduced when the quality of medical data is incomplete. Moreover, different regions exhibit unique characteristics of certain regional diseases, which may weaken the prediction of disease outbreaks. In this System, we streamline Deep learning algorithms for effective prediction of diseases.
